@@ -1,3 +1,2 @@
 # Clones
-facebook clone using 
-WhatsApp Chat Clone
+Facebook and WhatsApp Chat Clone
